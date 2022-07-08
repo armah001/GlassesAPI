@@ -11008,11 +11008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/armah/Desktop/HDigital/Glasses/Glasses/Glasses.csproj",
+      "projectUniqueName": "/Users/armah/Desktop/Glasses/Glasses/Glasses.csproj",
       "projectName": "Glasses",
-      "projectPath": "/Users/armah/Desktop/HDigital/Glasses/Glasses/Glasses.csproj",
+      "projectPath": "/Users/armah/Desktop/Glasses/Glasses/Glasses.csproj",
       "packagesPath": "/Users/armah/.nuget/packages/",
-      "outputPath": "/Users/armah/Desktop/HDigital/Glasses/Glasses/obj/",
+      "outputPath": "/Users/armah/Desktop/Glasses/Glasses/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/armah/.nuget/NuGet/NuGet.Config"
@@ -11130,7 +11130,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.301/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/6.0.104_1/libexec/sdk/6.0.104/RuntimeIdentifierGraph.json"
       }
     }
   }

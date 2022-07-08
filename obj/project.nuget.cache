@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A9EAz68ju4fRsUqBfwEUJxtIACKu4HDgcApEJRZdj+kVRCkVHp1mb4QLg7cyH6wclonbhSfqVv1NHxN30vSQiw==",
+  "dgSpecHash": "hVbXZodhFKIyQ5ZMuTKdZdl2f+pPc47+uuRwlTJ1abiarVPceCRc4VC+iMOCM7ArPXDqZfb+K6ee3PSb24kthw==",
   "success": true,
-  "projectFilePath": "/Users/armah/Desktop/HDigital/Glasses/Glasses/Glasses.csproj",
+  "projectFilePath": "/Users/armah/Desktop/Glasses/Glasses/Glasses.csproj",
   "expectedPackageFiles": [
     "/Users/armah/.nuget/packages/automapper/10.1.0/automapper.10.1.0.nupkg.sha512",
     "/Users/armah/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.0/automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",

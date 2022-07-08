@@ -41,7 +41,7 @@ namespace Glasses.Controller
 
 
 
-        [HttpGet]
+        [HttpGet("GetAllProducts")]
         public async Task<IActionResult> GetProdcuts()
         {
             try
@@ -71,7 +71,7 @@ namespace Glasses.Controller
             }
         }
 
-        [HttpPost]
+        [HttpPost("CreateProduct")]
         public async Task<IActionResult> CreateProduct([FromBody] CreateProductDTO ProductDTO)
         {
             if (!ModelState.IsValid)
